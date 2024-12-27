@@ -1,2 +1,3 @@
  Gitの練習
-基本的なワークフローを学ぶ
+Git Hubとの初回連携
+git add / commit の練習
