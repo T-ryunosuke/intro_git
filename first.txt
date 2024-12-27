@@ -1,4 +1,5 @@
  Gitの練習
-Git Hubとの初回連携
-git add / commit の練習
-git rm の使用
+・Git Hubとの初回連携
+・git add / commit の練習
+・git rm の使用
+・git status
