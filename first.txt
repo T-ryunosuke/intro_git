@@ -4,3 +4,4 @@
 ・git rm の使用
 ・git status
 ・git diff
+.git stash
